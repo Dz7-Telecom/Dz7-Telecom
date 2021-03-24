@@ -98,11 +98,43 @@ Humility, commitment, determination, ethics, empathy, professionalism, mutual re
 
 ### My Stats
 
+> Mis estadísticas
+
+> Minhas estatisticas
+
 <p>
-<a href="https://github.com/Dheph">
+<a href="https://github.com/Dz7-Telecom">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dz7-Telecom&show_icons=true&theme=radical" />
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dz7-Telecom&theme=radical&layout=compact" />
 </a>
 </p>
+
+## Contact Me
+
+> Contáctame
+
+> contate-me
+
+<p>
+  <a href="https://www.linkedin.com/company/skynet-guarulhos/mycompany/">
+    <img align="left" alt="Facebook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>
+  </a>
+
+  <a href="mailto:noc@skynetguarulhos.com.br">
+    <img align="left" alt="Email" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg"/>
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCy9YiTYXrAqGQa7XMHZw5ag">
+<img align="left" alt="youtube" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png"/>
+  </a>
+  
+  <a href="https://www.facebook.com/dz7telecom">
+  <img align="left" alt="facebook" width="44px"   src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg"/></a>
+
+  <a href="https://www.instagram.com/dz7telecom/">
+  <img align="left" alt="instagram" width="44px"  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
+
+</p>
+
