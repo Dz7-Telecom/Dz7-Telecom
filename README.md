@@ -131,10 +131,16 @@ Humility, commitment, determination, ethics, empathy, professionalism, mutual re
   </a>
   
   <a href="https://www.facebook.com/dz7telecom">
-  <img align="left" alt="facebook" width="44px"   src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg"/></a>
+  <img align="left" alt="facebook" width="44px"   src="https://www.flaticon.com/svg/static/icons/svg/1384/1384053.svg"/>
+</a>
 
   <a href="https://www.instagram.com/dz7telecom/">
-  <img align="left" alt="instagram" width="44px"  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
+  <img align="left" alt="instagram" width="44px"  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/>
+</a>
+
+  <a href="https://dz7telecom.com.br">
+    <img align="left" alt="site dz7 telecom" width="70px" src="https://dz7telecom.com.br/wp-content/uploads/2020/07/logo-dz7-2.png"/>
+  </a>
 
 </p>
 
