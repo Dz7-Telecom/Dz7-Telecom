@@ -107,7 +107,7 @@ Humility, commitment, determination, ethics, empathy, professionalism, mutual re
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dz7-Telecom&show_icons=true&theme=radical" />
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dz7-Telecom&theme=radical&layout=compact" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dz7-Telecom&layout=compact&themes=dark)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 </p>
 
@@ -119,7 +119,7 @@ Humility, commitment, determination, ethics, empathy, professionalism, mutual re
 
 <p>
   <a href="https://www.linkedin.com/company/skynet-guarulhos/mycompany/">
-    <img align="left" alt="Facebook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>
+    <img align="left" alt="Linkedin" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>
   </a>
 
   <a href="mailto:noc@skynetguarulhos.com.br">
