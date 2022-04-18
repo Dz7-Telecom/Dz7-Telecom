@@ -119,7 +119,7 @@ Humility, commitment, determination, ethics, empathy, professionalism, mutual re
 
 <p>
   <a href="https://dz7telecom.com.br">
-    <img align="left" alt="site dz7 telecom" width="70px" src="https://dz7telecom.com.br/wp-content/uploads/2020/07/logo-dz7-2.png"/>
+    <img align="left" alt="site dz7 telecom" width="70px" src="https://dz7telecom.com.br/assets/images/logodz7.png"/>
   </a>
   
   <a href="https://www.linkedin.com/company/skynet-guarulhos/mycompany/">
